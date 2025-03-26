@@ -1,0 +1,7 @@
+2025-03-20 16:49:45,548 - Erro geral: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:/Users/pc/Desktop/LEONARDO VINICIUS 3858 (1).pdf'
+2025-03-20 16:50:27,628 - Erro geral: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:/Users/pc/Desktop/LEONARDO VINICIUS 3858 (1).pdf'
+2025-03-20 16:51:20,078 - Texto extraído do PDF: C:/Users/pc/pdfler-bot/pedidos\LEONARDO VINICIUS 3858 (1).pdf
+2025-03-20 16:51:20,079 - Erro ao processar item ['1', '-', 'SUPERMERCA', '53510-335', 'Cep :', 'PE', 'UF :', 'ABREU E LIMA', 'Cidade:', '0842608-23', 'I.E.:', '34.483.095/0001-63', 'Cnpj:', 'Rca :', '7 - MERCIA', 'Num.Ped.Cliente:', 'Cobranca : D', '- DINHEIRO', 'Data :', 'Num.Ped.RCA:', 'Num. Orçamento : 7003858']: could not convert string to float: '53510-335'
+2025-03-20 16:51:20,079 - Erro ao processar item ['8199218158', 'Cod.', 'Descricao', 'Embalagem', 'UN', 'Qt.(Un.)', 'P.Líquido', 'Vl. Total', 'Forma de Pagamento:', 'A VISTA', '13/12/2024', 'Dt. Validade:', 'NCM']: could not convert string to float: 'Embalagem'
+2025-03-20 16:51:20,080 - Erro ao processar item ['0', 'Transportador :', 'Total :', 'Observações de Entrega :', '19,87 Kg', '19,000000', 'Vl. Desconto :', 'Vl. Outras Desp.:', 'Vl.Frete :', '0,00', '0,00', 'Vl. Total :', 'Peso Total:', 'Volume Total:']: could not convert string to float: 'Observações de Entrega :'
+2025-03-20 16:51:20,080 - Processados 9 itens
