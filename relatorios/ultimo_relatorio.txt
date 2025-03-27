@@ -1,0 +1,117 @@
+RESULTADOS DA COMPARAÇÃO DE PRODUTOS
+==================================
+
+Data e hora: 27/03/2025 11:48:30
+
+1. Produto PDF: THERMO ABDOMEN 60 CAPS
+   Correspondência: THERMO ABDOMEN 60CAPS
+   Quantidade no PDF: 6
+   Estoque atual: 7.0
+   ID: 407
+
+2. Produto PDF: CREATINA INTEGRALMEDICA
+   Correspondência: CREATINA INTEGRALMEDICA
+   Quantidade no PDF: 12
+   Estoque atual: -1.0
+   ID: 1
+
+3. Produto PDF: CREATINA BLACKSKULL
+   Correspondência: CREATINA BLACKSKULL
+   Quantidade no PDF: 12
+   Estoque atual: 0.0
+   ID: 3
+
+4. Produto PDF: GLUTAMINA REDLION
+   Correspondência: GLUTAMINA REDLION
+   Quantidade no PDF: 4
+   Estoque atual: 0.0
+   ID: 48
+
+5. Produto PDF: CREATINA REDLION 150G
+   Correspondência: CREATINA REDLION 150G
+   Quantidade no PDF: 6
+   Estoque atual: 0.0
+   ID: 477
+
+6. Produto PDF: NATUROVOS ALBUMINA
+   Correspondência: NATUROVOS ALBUMINA
+   Quantidade no PDF: 1
+   Estoque atual: 0.0
+   ID: 68
+
+7. Produto PDF: NATUROVOS ALBUMINA
+   Correspondência: NATUROVOS ALBUMINA
+   Quantidade no PDF: 2
+   Estoque atual: 0.0
+   ID: 68
+
+8. Produto PDF: NATUROVOS ALBUMINA
+   Correspondência: NATUROVOS ALBUMINA
+   Quantidade no PDF: 3
+   Estoque atual: 0.0
+   ID: 68
+
+9. Produto PDF: C4 CAFFEINE FREE
+   Correspondência: C4 CAFFEINE FREE 
+   Quantidade no PDF: 2
+   Estoque atual: 2.0
+   ID: 482
+
+10. Produto PDF: C4 BETA PUMP
+   Correspondência: C4 BETA PUMP NEW MILLEN
+   Quantidade no PDF: 3
+   Estoque atual: 2.0
+   ID: 37
+
+11. Produto PDF: C4 BETA PUMP
+   Correspondência: C4 BETA PUMP NEW MILLEN
+   Quantidade no PDF: 3
+   Estoque atual: 2.0
+   ID: 37
+
+12. Produto PDF: ALFAJOR DR PEANUT
+   Correspondência: ALFAJOR DR PEANUT
+   Quantidade no PDF: 1
+   Estoque atual: 3.0
+   ID: 481
+
+13. Produto PDF: PASTA DE AMENDOIM DR PEANUT
+   Correspondência: PASTA DE AMENDOIM DR PEANUT
+   Quantidade no PDF: 4
+   Estoque atual: -4.0
+   ID: 52
+
+14. Produto PDF: BETA ALANINE REDLION
+   Correspondência: BETA ALANINE 150g
+   Quantidade no PDF: 2
+   Estoque atual: 2.0
+   ID: 46
+
+15. Produto PDF: MULTIVITAMINICO REDLION
+   Correspondência: MULTIVITAMINICO REDLION
+   Quantidade no PDF: 6
+   Estoque atual: 0.0
+   ID: 405
+
+16. Produto PDF: ECTOPLASMA DEMONS LAB
+   Correspondência: ECTOPLASMA DEMONS LAB SUPER POWER
+   Quantidade no PDF: 2
+   Estoque atual: 0.0
+   ID: 480
+
+17. Produto PDF: INSANE CLOWN DEMONS LAB
+   Correspondência: INSANE CLOWN  DEMONS LABGRAPE
+   Quantidade no PDF: 2
+   Estoque atual: 2.0
+   ID: 479
+
+18. Produto PDF: INSANE ORIGINAL DEMONS LAB
+   Correspondência: INSANE ORIGINAL DEMONS LAB
+   Quantidade no PDF: 2
+   Estoque atual: 0.0
+   ID: 478
+
+RESUMO:
+Total de produtos analisados: 18
+Produtos encontrados no banco: 18
+Produtos não encontrados: 0

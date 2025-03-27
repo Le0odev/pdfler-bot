@@ -1,0 +1,117 @@
+RESULTADOS DA COMPARAÇÃO DE PRODUTOS
+==================================
+
+Data e hora: 27/03/2025 10:50:05
+
+1. Produto PDF: BODYACTION THERMO ABDOMEN 60 CAPS
+   Correspondência: THERMO ABDOMEN 60Caps
+   Quantidade no PDF: 6
+   Estoque atual: 7.0
+   ID: 407
+
+2. Produto PDF: INTEGRALMEDICA CREATINA 300G
+   Correspondência: CREATINA INTEGRALMEDICA
+   Quantidade no PDF: 12
+   Estoque atual: -1.0
+   ID: 1
+
+3. Produto PDF: BLACKSKULL CREATINA 300G
+   Correspondência: CREATINA BLACKSKULL
+   Quantidade no PDF: 12
+   Estoque atual: 0.0
+   ID: 3
+
+4. Produto PDF: REDLION GLUTAMINA 150G
+   Correspondência: Não encontrado
+   Quantidade no PDF: 4
+   Estoque atual: N/A
+   ID: N/A
+
+5. Produto PDF: REDLION CREATINA 150G
+   Correspondência: CREATINA REDLION 150G
+   Quantidade no PDF: 6
+   Estoque atual: 0.0
+   ID: 477
+
+6. Produto PDF: NATUROVOS ALBUMINA 420G MORANGO
+   Correspondência: NATUROVOS ALBUMINA
+   Quantidade no PDF: 1
+   Estoque atual: 0.0
+   ID: 68
+
+7. Produto PDF: NATUROVOS ALBUMINA 420G CHOCOLATE
+   Correspondência: NATUROVOS ALBUMINA
+   Quantidade no PDF: 2
+   Estoque atual: 0.0
+   ID: 68
+
+8. Produto PDF: NATUROVOS ALBUMINA 420G NATURAL
+   Correspondência: NATUROVOS ALBUMINA
+   Quantidade no PDF: 3
+   Estoque atual: 0.0
+   ID: 68
+
+9. Produto PDF: NEW MILLEN 220G LARANJA
+   Correspondência: Não encontrado
+   Quantidade no PDF: 2
+   Estoque atual: N/A
+   ID: N/A
+
+10. Produto PDF: NEW MILLEN PRE TREINO 225G AMARELA
+   Correspondência: Não encontrado
+   Quantidade no PDF: 3
+   Estoque atual: N/A
+   ID: N/A
+
+11. Produto PDF: NEW MILLEN PRE TREINO 225G ROXA
+   Correspondência: Não encontrado
+   Quantidade no PDF: 3
+   Estoque atual: N/A
+   ID: N/A
+
+12. Produto PDF: DR. PEANUT BRIGADEIRO
+   Correspondência: Não encontrado
+   Quantidade no PDF: 1
+   Estoque atual: N/A
+   ID: N/A
+
+13. Produto PDF: DR. PEANUT 600G AVELA
+   Correspondência: Não encontrado
+   Quantidade no PDF: 4
+   Estoque atual: N/A
+   ID: N/A
+
+14. Produto PDF: REDLION BETA ALANINA 150G
+   Correspondência: BETA ALANINE 150g
+   Quantidade no PDF: 2
+   Estoque atual: 2.0
+   ID: 46
+
+15. Produto PDF: REDLION MULTIVITAMINICO 60 CAPS
+   Correspondência: MULTIVITAMINICO REDLION
+   Quantidade no PDF: 6
+   Estoque atual: 0.0
+   ID: 405
+
+16. Produto PDF: DEMONS LAB TUTTI
+   Correspondência: Não encontrado
+   Quantidade no PDF: 2
+   Estoque atual: N/A
+   ID: N/A
+
+17. Produto PDF: DEMONS LAB INSANE 350G GRAPE
+   Correspondência: INSANE CLOWN GRAPE DEMONS LAB
+   Quantidade no PDF: 2
+   Estoque atual: 2.0
+   ID: 479
+
+18. Produto PDF: DEMONS LAB INSANE PUNCH
+   Correspondência: INSANE ORIGINAL DEMONS LAB
+   Quantidade no PDF: 2
+   Estoque atual: 0.0
+   ID: 478
+
+RESUMO:
+Total de produtos analisados: 18
+Produtos encontrados no banco: 11
+Produtos não encontrados: 7
