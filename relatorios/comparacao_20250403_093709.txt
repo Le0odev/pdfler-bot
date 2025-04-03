@@ -1,12 +1,12 @@
 RESULTADOS DA COMPARAÇÃO DE PRODUTOS
 ==================================
 
-Data e hora: 03/04/2025 10:10:22
+Data e hora: 03/04/2025 09:37:09
 
 1. Produto PDF: 3, 3, 0 REMETENTE (CIF) 0, 0, 0, 0, 0, CÓDIGO DESCRIÇÃO PRODUTO/SERVIÇO NCM/SH CST CSOSN CFOP UNID. QTD. VLR. UNIT. VLR. TOTAL BC. ICMS VLR. ICMS ALÍQ. ICMS BIOVITON 560MG CAPS UNILIFE
    Correspondência: BIOVITON 560MG CAPS UNILIFE
    Quantidade no PDF: 3
-   Estoque atual: 0.0
+   Estoque atual: 3.0
    ID: 484
 
 2. Produto PDF: COENZIMA COQ 50MG CAPS UNILIFE
@@ -57,25 +57,19 @@ Data e hora: 03/04/2025 10:10:22
    Estoque atual: 2.0
    ID: 82
 
-10. Produto PDF: VITAMINA C ACIDO ASCORBICO 60 CAPS - UNILIFE
+10. Produto PDF: VITAMINA C ACIDO ASCORBICO 400MG CAPS UNILIFE
    Correspondência: VITAMINA C UNILIFE
    Quantidade no PDF: 3
    Estoque atual: 1.0
    ID: 72
 
-11. Produto PDF: VITAMINA D COLECALCIFEROL 60 CAPS - UNILIFE
-   Correspondência: VITAMINA  D3 UNILIFe
+11. Produto PDF: VITAMINA COLECALCIFEROL CAPS UNILIFE
+   Correspondência: VITAMINA C UNILIFE
    Quantidade no PDF: 2
-   Estoque atual: 2.0
-   ID: 444
-
-12. Produto PDF: AMORA MASTIGAVEL 60 COMP
-   Correspondência: AMORA MASTIGAVEL UNILIFE
-   Quantidade no PDF: 3
-   Estoque atual: 0.0
-   ID: 108
+   Estoque atual: 1.0
+   ID: 72
 
 RESUMO:
-Total de produtos analisados: 12
-Produtos encontrados no banco: 12
+Total de produtos analisados: 11
+Produtos encontrados no banco: 11
 Produtos não encontrados: 0

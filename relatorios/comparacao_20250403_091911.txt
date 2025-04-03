@@ -1,0 +1,75 @@
+RESULTADOS DA COMPARAÇÃO DE PRODUTOS
+==================================
+
+Data e hora: 03/04/2025 09:19:11
+
+1. Produto PDF: 3, 3, 0 REMETENTE (CIF) 0, 0, 0, 0, 0, CÓDIGO DESCRIÇÃO PRODUTO/SERVIÇO NCM/SH CST CSOSN CFOP UNID. QTD. VLR. UNIT. VLR. TOTAL BC. ICMS VLR. ICMS ALÍQ. ICMS BIOVITON 560MG CAPS UNILIFE
+   Correspondência: .
+   Quantidade no PDF: 3
+   Estoque atual: 1.0
+   ID: 141
+
+2. Produto PDF: COENZIMA COQ 50MG CAPS UNILIFE
+   Correspondência: Não encontrado
+   Quantidade no PDF: 3
+   Estoque atual: N/A
+   ID: N/A
+
+3. Produto PDF: DERMCARE VERISOL CAPS UNILIFE
+   Correspondência: Não encontrado
+   Quantidade no PDF: 3
+   Estoque atual: N/A
+   ID: N/A
+
+4. Produto PDF: EXTRATO PROPOLIS VERDE LIQUIDO UNILIFE
+   Correspondência: Não encontrado
+   Quantidade no PDF: 4
+   Estoque atual: N/A
+   ID: N/A
+
+5. Produto PDF: MAGNESIO DIMALATO CAPS UNILIFE
+   Correspondência: Não encontrado
+   Quantidade no PDF: 4
+   Estoque atual: N/A
+   ID: N/A
+
+6. Produto PDF: OLEO SEMENTE ABOBORA CAPS UNILIFE
+   Correspondência: SEMENTE DE ABOBORA
+   Quantidade no PDF: 2
+   Estoque atual: 0.81
+   ID: 268
+
+7. Produto PDF: OMEGA 3 OLEO PEIXE CAPS UNILIFE
+   Correspondência: Não encontrado
+   Quantidade no PDF: 12
+   Estoque atual: N/A
+   ID: N/A
+
+8. Produto PDF: TREON MAG TREONATO CAPS UNILIFE
+   Correspondência: Não encontrado
+   Quantidade no PDF: 2
+   Estoque atual: N/A
+   ID: N/A
+
+9. Produto PDF: VITAMINA BIOTINA CAPS UNILIFE
+   Correspondência: Não encontrado
+   Quantidade no PDF: 4
+   Estoque atual: N/A
+   ID: N/A
+
+10. Produto PDF: VITAMINA C ACIDO ASCORBICO 400MG CAPS UNILIFE
+   Correspondência: Não encontrado
+   Quantidade no PDF: 3
+   Estoque atual: N/A
+   ID: N/A
+
+11. Produto PDF: VITAMINA COLECALCIFEROL CAPS UNILIFE
+   Correspondência: Não encontrado
+   Quantidade no PDF: 2
+   Estoque atual: N/A
+   ID: N/A
+
+RESUMO:
+Total de produtos analisados: 11
+Produtos encontrados no banco: 2
+Produtos não encontrados: 9
